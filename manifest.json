@@ -1,0 +1,17 @@
+{
+  "name": "주간 상태판",
+  "short_name": "상태판",
+  "description": "매일 30초 체크로 기분·수면·루틴을 기록하고, 주말에 한 주를 한 장으로 돌아봅니다.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "ko",
+  "background_color": "#EEF2F2",
+  "theme_color": "#0E8FA8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
